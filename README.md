@@ -1,2 +1,3 @@
 # imr-workshop-repo
-My cool repository
+
+This is my repo for the IMR workshop.
